@@ -1,0 +1,1 @@
+refData = "data/countries, capitals and currencies.txt"

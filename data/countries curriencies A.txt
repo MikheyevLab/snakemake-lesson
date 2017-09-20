@@ -1,0 +1,100 @@
+Lebanon	Lebanese pound
+Lesotho	Maluti
+Liberia	Liberian dollar
+Libya	Libyan dinar
+Liechtenstein	Swiss franc
+Lithuania	Litas
+Luxembourg	Euro (formerly Luxembourg franc)
+Macedonia	Denar
+Madagascar	Malagasy franc
+Malawi	Kwacha
+Malaysia	Ringgit
+Maldives	Rufiya
+Mali	CFA Franc
+Malta	Maltese lira
+Marshall Islands	U.S. Dollar
+Mauritania	Ouguiya
+Mauritius	Mauritian rupee
+Mexico	Mexican peso
+Micronesia, Federated States of	U.S. Dollar
+Moldova	Leu
+Monaco	Euro
+Mongolia	Tugrik
+Montenegro	Euro
+Morocco	Dirham
+Mozambique	Metical
+Myanmar (Burma)	Kyat
+Namibia	Namibian dollar
+Nauru	Australian dollar
+Nepal	Nepalese rupee
+Netherlands	Euro (formerly guilder)
+New Zealand	New Zealand dollar
+Nicaragua	Gold cordoba
+Niger	CFA Franc
+Nigeria	Naira
+Norway	Norwegian krone
+Oman	Omani rial
+Pakistan	Pakistani rupee
+Palau	U.S. dollar
+Panama	balboa; U.S. dollar
+Papua New Guinea	Kina
+Paraguay	Guaraní
+Peru	Nuevo sol (1991)
+Philippines	Peso
+Poland	Zloty
+Portugal	Euro (formerly escudo)
+Qatar	Qatari riyal
+Romania	Leu
+Russia	Ruble
+Rwanda	Rwanda franc
+Saint Kitts and Nevis	East Caribbean dollar
+Saint Lucia	East Caribbean dollar
+Saint Vincent and the Grenadines	East Caribbean dollar
+Samoa	Tala
+San Marino	Euro
+Sao Tome and Principe	Dobra
+Saudi Arabia	Riyal
+Senegal	CFA Franc
+Serbia	Yugoslav new dinar. In Kosovo both the euro and the Yugoslav dinar are legal
+Seychelles	Seychelles rupee
+Sierra Leone	Leone
+Singapore	Singapore dollar
+Slovakia	Koruna
+Slovenia	Slovenian tolar; euro (as of 1/1/07)
+Solomon Islands	Solomon Islands dollar
+Somalia	Somali shilling
+South Africa	Rand
+South Sudan	Sudanese Pound
+Spain	Euro (formerly peseta)
+Sri Lanka	Sri Lanka rupee
+Sudan	Dinar
+Suriname	Surinamese dollar
+Swaziland	Lilangeni
+Sweden	Krona
+Switzerland	Swiss franc
+Syria	Syrian pound
+Taiwan	Taiwan dollar
+Tajikistan	somoni
+Tanzania	Tanzanian shilling
+Thailand	baht
+Togo	CFA Franc
+Tonga	Pa'anga
+Trinidad and Tobago	Trinidad and Tobago dollar
+Tunisia	Tunisian dinar
+Turkey	Turkish lira (YTL)
+Turkmenistan	Manat
+Tuvalu	Australian dollar
+Uganda	Ugandan new shilling
+Ukraine	Hryvna
+United Arab Emirates	U.A.E. dirham
+United Kingdom	Pound sterling
+United States of America	dollar
+Uruguay	Uruguay peso
+Uzbekistan	Uzbekistani sum
+Vanuatu	Vatu
+Vatican City (Holy See)	Euro
+Venezuela	Bolivar
+Vietnam	Dong
+Yemen	Rial
+Zambia	Kwacha
+Zimbabwe	Zimbabwean dollar

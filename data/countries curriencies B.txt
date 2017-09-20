@@ -1,0 +1,96 @@
+Afghanistan	Afghani
+Albania	Lek
+Algeria	Dinar
+Andorra	Euro
+Angola	New Kwanza
+Antigua and Barbuda	East Caribbean dollar
+Argentina	Peso
+Armenia	Dram
+Australia	Australian dollar
+Austria	Euro (formerly schilling)
+Azerbaijan	Manat
+The Bahamas	Bahamian dollar
+Bahrain	Bahrain dinar
+Bangladesh	Taka
+Barbados	Barbados dollar
+Belarus	Belorussian ruble
+Belgium	Euro (formerly Belgian franc)
+Belize	Belize dollar
+Benin	CFA Franc
+Bhutan	Ngultrum
+Bolivia	Boliviano
+Bosnia and Herzegovina	Marka
+Botswana	Pula
+Brazil	Real
+Brunei	Brunei dollar
+Bulgaria	Lev
+Burkina Faso	CFA Franc
+Burundi	Burundi franc
+Cambodia	Riel
+Cameroon	CFA Franc
+Canada	Canadian dollar
+Cape Verde	Cape Verdean escudo
+Central African Republic	CFA Franc
+Chad	CFA Franc
+Chile	Chilean Peso
+China	Yuan/Renminbi
+Colombia	Colombian Peso
+Comoros	Franc
+Congo, Republic of the	CFA Franc
+Congo, Democratic Republic of the	Congolese franc
+Costa Rica	Colón
+Cote d'Ivoire	CFA Franc
+Croatia	Kuna
+Cuba	Cuban Peso
+Cyprus	Cyprus pound
+Czech Republic	Koruna
+Denmark	Krone
+Djibouti	Djibouti franc
+Dominica	East Caribbean dollar
+Dominican Republic	Dominican Peso
+East Timor (Timor-Leste)	U.S. dollar
+Ecuador	U.S. dollar
+Egypt	Egyptian pound
+El Salvador	Colón; U.S. dollar
+Equatorial Guinea	CFA Franc
+Eritrea	Nakfa
+Estonia	Kroon
+Ethiopia	Birr
+Fiji	Fiji dollar
+Finland	Euro (formerly markka)
+France	Euro (formerly French franc)
+Gabon	CFA Franc
+The Gambia	Dalasi
+Georgia	Lari
+Germany	Euro (formerly Deutsche mark)
+Ghana	Cedi
+Greece	Euro (formerly drachma)
+Grenada	East Caribbean dollar
+Guatemala	Quetzal
+Guinea	Guinean franc
+Guinea-Bissau	CFA Franc
+Guyana	Guyanese dollar
+Haiti	Gourde
+Honduras	Lempira
+Hungary	Forint
+Iceland	Icelandic króna
+India	Rupee
+Indonesia	Rupiah
+Iran	Rial
+Iraq	Iraqi Dinar
+Ireland	Euro (formerly Irish pound [punt])
+Israel	Shekel
+Italy	Euro (formerly lira)
+Jamaica	Jamaican dollar
+Japan	Yen
+Jordan	Jordanian dinar
+Kazakhstan	Tenge
+Kenya	Kenya shilling
+Kiribati	Australian dollar
+Korea, North	Won
+Korea, South	Won
+Kosovo	Euro (German Mark prior to 2002)
+Kuwait	Kuwaiti dinar
+Kyrgyzstan	Som
+Laos	New Kip
+Latvia	Lats
